@@ -59,4 +59,5 @@ main h2{
 
 footer p{
   float: left;
+  clear:both;
 }
